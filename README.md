@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspatil0&label=Profile%20views&color=0e75b6&style=flat" alt="aspatil0" /> </p>
 
-- 🔭 I’m currently working on **MEDTAG**
+- 🔭 I’m currently working on **RIDE WITH ME**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **NODE JS**
 
 - 📫 How to reach me **aspatil2904@gmail.com**
 
