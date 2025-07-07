@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspatil0&label=Profile%20views&color=0e75b6&style=flat" alt="aspatil0" /> </p>
 
-- 🔭 I’m currently working on **AI - GEMINI MODEL BUILDER**
+- 🔭 I’m currently working on **COURSE LMS SITE LIKE UDEMY**
 
 - 🌱 I’m currently learning **NODE JS**
 
