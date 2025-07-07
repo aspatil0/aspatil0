@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **COURSE LMS SITE LIKE UDEMY**
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **aspatil2904@gmail.com**
 
