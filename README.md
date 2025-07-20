@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://patiladityaraj.netlify.app/](https://patiladityaraj.netlify.app/)
 
-- 💬 Ask me about **MERN STACK**
-
 - 📫 How to reach me **aspatil2904@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
