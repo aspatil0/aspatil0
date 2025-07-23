@@ -10,6 +10,18 @@
 - 👨‍💻 All of my projects are available at [https://patiladityaraj.netlify.app/](https://patiladityaraj.netlify.app/)
 
 - 📫 How to reach me **aspatil2904@gmail.com**
+-  **Crafted Code: My Journey Through Original Projects**
+  
+-   1. MISSON FEED INDIA : Food Redistribution Web Platform 
+-   2. WOMEN SAFETY DEVICE : A WEARABLE DEVICE FOR SAFETY OF WOMEN
+    3. SUGGEST ME SITE : A PERSONLIZED AI POWER SUGGESTION SITE FOR PEOPLES
+    4. PERSONAL PORJECT MANAGEMENT SITE
+    5. COUPLEMATE : A COUPLE CHATING AND MATCHING SITE
+    6. PAYMENT SCAM DETACTOR : A IOT BASED  SCANNER TO DETECT FAKE PAYMENTS
+    7. COMPUTER CC LAB MANAGEMENT SITE
+    8. DEVINETECH COMPANY SITE BUILIDNG
+    9. IOT BASED ANTI SLEEP ALARAM FOR DRIVERS
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
