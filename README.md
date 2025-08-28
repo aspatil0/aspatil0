@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adityaraj Patil</h1>
-<h3 align="center">I’m a passionate Full-Stack Web Developer currently pursuing my B.E. in Computer Engineering from Trinity College, Pune. I specialize in building scalable and user-focused web applications using modern technologies like React, Node.js, and MongoDB, along with a strong foundation in PHP and MySQL.</h3>
+<h3 align="center">I’m a passionate Full-Stack Web Developer currently pursuing my B.E. in Computer Engineering from Trinity College, Pune. I specialize in building scalable and user-focused web applications using modern technologies like React,Next along with a strong foundation in PHP and MySQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspatil0&label=Profile%20views&color=0e75b6&style=flat" alt="aspatil0" /> </p>
 
