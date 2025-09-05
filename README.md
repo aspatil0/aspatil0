@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SUGGEST ME SITE : A PERSONLIZED AI-POWER SUGGETION PLATFORM**
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://patiladityaraj.netlify.app/](https://patiladityaraj.netlify.app/)
 
