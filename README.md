@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Adityaraj Patil</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Innovator | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | Innovator | Founder of DevineTech</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aspatil0&label=Profile%20Views&color=0e75b6&style=flat" alt="aspatil0" />
@@ -9,20 +9,32 @@
 
 ### 🧠 About Me  
 
-🎓 I’m pursuing my **B.E. in Computer Engineering** from *Trinity College of Engineering, Pune*.  
-💻 Passionate about creating **scalable, user-centric web applications** using **React**, **Next.js**, **Node.js**, **PHP**, and **MySQL**.  
-🚀 I love exploring new technologies, contributing to open-source, and building real-world solutions that make an impact.  
+🎓 Pursuing **B.E. in Computer Engineering** from *Trinity College of Engineering, Pune*.  
+💻 Passionate about building **scalable, secure, and user-friendly web applications** using **React**, **Next.js**, **Node.js**, **PHP**, and **MySQL**.  
+🔬 I also work on **IoT & AI-driven innovations**, with one of my projects **patented** for women’s safety.  
+🚀 I’m on a mission to blend technology, innovation, and creativity to make impactful digital products.  
+
+---
+
+### 🚧 Upcoming Projects  
+
+| Project Name | Description |
+|---------------|-------------|
+| **Women Safety Device (Patented)** | An IoT-powered safety device featuring live GPS tracking, SOS alerts, buzzer & shock defense system — designed to protect women in emergencies. |
+| **OfferHub** | A full-stack web app that aggregates the best deals and offers from across platforms for easy access. |
+| **Nodent** | A modern dental appointment and clinic management platform for doctors and patients. |
+| **EngiWorld** | A collaborative community for engineering students to share projects, practicals, and resources. |
 
 ---
 
 ### 🔭 Currently Working On  
-**OfferHub** — a modern web platform aimed at simplifying offers and deals discovery.  
+**OfferHub** — building and optimizing it for real-time offer aggregation.  
 
 ### 🌱 Currently Learning  
-The **MERN Stack** to enhance my full-stack development expertise.  
+Advancing in **MERN Stack Development** and **Next.js 15** for scalable deployments.  
 
 ### 💼 Portfolio  
-Explore my complete work at:  
+Check out my projects and work portfolio here:  
 🔗 [https://patiladityaraj.netlify.app](https://patiladityaraj.netlify.app)
 
 ### 📫 Reach Me At  
@@ -75,9 +87,9 @@ Explore my complete work at:
 ---
 
 ### 💡 Fun Fact  
-I love creating innovative projects that merge **technology and creativity**, from **IoT systems** to **AI-driven applications** — and sometimes I even write stories and books in my free time. 📚✨
+Beyond tech, I’m also a **writer and storyteller**, authoring multiple books and exploring how creativity fuels innovation. ✨  
 
 ---
 
-⭐ **If you like my work, consider giving it a star!**  
-💬 Open to collaborations — feel free to reach out!
+⭐ **If you like my work, give it a star and follow for more!**  
+💬 Open to collaborations — feel free to reach out via email or LinkedIn!
