@@ -18,12 +18,12 @@
 
 ### 🚧 Upcoming Projects  
 
-| Project Name | Description |
-|---------------|-------------|
-| **Women Safety Device (Patented)** | An IoT-powered safety device featuring live GPS tracking, SOS alerts, buzzer & shock defense system — designed to protect women in emergencies. |
-| **OfferHub** | A full-stack web app that aggregates the best deals and offers from across platforms for easy access. |
-| **Nodent** | A modern dental appointment and clinic management platform for doctors and patients. |
-| **EngiWorld** | A collaborative community for engineering students to share projects, practicals, and resources. |
+| Project Name | 
+|---------------|
+| **Women Safety Device (Patented)** |
+| **OfferHub** | 
+| **Nodent** | 
+| **EngiWorld** | 
 
 ---
 
