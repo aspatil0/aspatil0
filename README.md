@@ -91,5 +91,4 @@ Beyond tech, I’m also a **writer and storyteller**, authoring multiple books a
 
 ---
 
-⭐ **If you like my work, give it a star and follow for more!**  
-💬 Open to collaborations — feel free to reach out via email or LinkedIn!
+
