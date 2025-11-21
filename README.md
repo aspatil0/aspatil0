@@ -19,13 +19,13 @@
 ### 🚧 Upcoming Projects  
 
 | Project Name |  Process |
-|---------------|---------- |
-| **Women Safety Device (Patented)** | **Patent Filled and prototype** |
+|---------------|--------------- |
+| **Women Safety Device (Patented)** | **Patent Filled and prototype Build** |
 | **OfferHub** | 
 | **Node Net** | 
 | **EngiWorld** | 
 | **FlatMate** |
-| **Mission Feed India** |
+| **Mission Feed India** | **17 Octomber** |
 | **Te Amo** |
 | **Suggest Me** |
 | **Gym Anywhere** |
