@@ -22,7 +22,7 @@
 |---------------|
 | **Women Safety Device (Patented)** |
 | **OfferHub** | 
-| **Nodent** | 
+| **Node net** | 
 | **EngiWorld** | 
 | **FlatMate** |
 | **Mission Feed India** |
