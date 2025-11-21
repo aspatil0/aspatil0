@@ -20,7 +20,7 @@
 
 | Project Name |  Process |
 |---------------|---------- |
-| **Women Safety Device (Patented)** |
+| **Women Safety Device (Patented)** | **Patent Filled and prototype** |
 | **OfferHub** | 
 | **Node Net** | 
 | **EngiWorld** | 
