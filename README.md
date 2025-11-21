@@ -25,7 +25,7 @@
 | **Node Net** | 
 | **EngiWorld** | 
 | **FlatMate** |
-| **Mission Feed India** | **17 Octomber** |
+| **Mission Feed India** |  
 | **Te Amo** |
 | **Suggest Me** |
 | **Gym Anywhere** |
