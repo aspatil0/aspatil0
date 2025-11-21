@@ -18,8 +18,8 @@
 
 ### 🚧 Upcoming Projects  
 
-| Project Name | 
-|---------------|
+| Project Name |  Process |
+|---------------|---------- |
 | **Women Safety Device (Patented)** |
 | **OfferHub** | 
 | **Node Net** | 
