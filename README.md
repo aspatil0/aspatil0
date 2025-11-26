@@ -30,8 +30,8 @@
 | **Suggest Me** | **AI BASED DAILY LIFE SUGGESTIONS** |
 | **Gym Anywhere** | **MANAGE GYM ANYWHERE IN ANY CITY** |
 | **LMS Site** | **STUDENT COURSE MANAGE SITE** |
-| **React Component Liblary** |
-| **ForYou&Me** |
+| **React Component Liblary** | **NEW REACT COMPONENTS** |
+| **ForYou&Me** | **A LOVE PAIR THINGS SHOPPING PLATFORM** |
 
 ---
 
