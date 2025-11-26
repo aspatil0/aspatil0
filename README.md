@@ -18,18 +18,18 @@
 
 ### 🚧 Upcoming Projects  
 
-| Project Name |  Process |
+| Project Name |  Details |
 |---------------|--------------- |
-| **Women Safety Device (Patented)** | **Patent Filled and prototype Build** |
-| **OfferHub** | 
-| **Node Net** | 
-| **EngiWorld** | 
-| **FlatMate** |
-| **Mission Feed India** |  
-| **Te Amo** |
-| **Suggest Me** |
-| **Gym Anywhere** |
-| **LMS Site** |
+| **Women Safety Device (Patented)** | **WOMEN SAFETY DEVICE WITH SOS SYSTEM** |
+| **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** |
+| **Node Net** | **NODE NETWORK SYSTEM TO MANAGE COLLAB AND TASKS**| 
+| **EngiWorld** | **ENGINEER STUD ALL IN ONE SOLUTION** |
+| **FlatMate** | **FIND A ROOMMATE SITE LIKE NOBROKER** |
+| **Mission Feed India** |  **PM MODEL TO SUPPLY FOOD TO POOR PEOPLE** |
+| **Te Amo** | **MY OWN SOCIAL MEDIA SITE** |
+| **Suggest Me** | **AI BASED DAILY LIFE SUGGESTIONS** |
+| **Gym Anywhere** | **MANAGE GYM ANYWHERE IN ANY CITY** |
+| **LMS Site** | **STUDENT COURSE MANAGE SITE** |
 | **React Component Liblary** |
 | **ForYou&Me** |
 
