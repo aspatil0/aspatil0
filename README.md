@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm Adityaraj Patil</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Innovator | Founder of DevineTech</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aspatil0&label=Profile%20Views&color=0e75b6&style=flat" alt="aspatil0" />
-</p>
+<h3 align="center">🚀 Full-Stack Web Developer | Innovator </h3>
 
 ---
 
