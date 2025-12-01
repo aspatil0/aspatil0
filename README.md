@@ -84,7 +84,6 @@ Check out my projects and work portfolio here:
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aspatil0&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aspatil0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
