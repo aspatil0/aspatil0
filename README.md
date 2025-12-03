@@ -14,8 +14,8 @@
 
 ### 🚧 Upcoming Projects  
 
-| Project Name |  Details | Status | Link |
-|---------------|--------------- |---------------|---------------|
+| Project Name |  Details | Status |  
+|---------------|--------------- |---------------|
 | **Women Safety Device (Patented)** | **WOMEN SAFETY DEVICE WITH SOS SYSTEM** | **PATENTED** |  
 | **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |
 | **Node Net** | **NODE NETWORK SYSTEM TO MANAGE COLLAB AND TASKS**| 
