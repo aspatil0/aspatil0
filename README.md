@@ -14,10 +14,10 @@
 
 ### 🚧 Upcoming Projects  
 
-| Project Name |  Details | Status |  
-|---------------|--------------- |---------------|
+| Project Name |  Details | Status |  See Online |
+|---------------|--------------- |---------------|------------------------|
 | **Women Safety Device (Patented)** | **WOMEN SAFETY DEVICE WITH SOS SYSTEM** | **PATENTED** |  
-| **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |
+| **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |[OfferHub](https://adityas-offerhub.vercel.app/)
 | **Node Net** | **NODE NETWORK SYSTEM TO MANAGE COLLAB AND TASKS**| 
 | **EngiWorld** | **ENGINEER STUD ALL IN ONE SOLUTION** |
 | **FlatMate** | **FIND A ROOMMATE SITE LIKE NOBROKER** |
@@ -81,14 +81,6 @@ Check out my projects and work portfolio here:
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aspatil0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
-
----
-
 ### 💡 Fun Fact  
 Beyond tech, I’m also a **writer and storyteller**, authoring multiple books and exploring how creativity fuels innovation. ✨  
 
