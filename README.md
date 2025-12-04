@@ -16,18 +16,19 @@
 
 | Project Name |  Details | Status |  See Online |
 |---------------|--------------- |---------------|------------------------|
-| **Women Safety Device (Patented)** | **WOMEN SAFETY DEVICE WITH SOS SYSTEM** | **PATENTED** |  
-| **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |[OfferHub](https://adityas-offerhub.vercel.app/)
-| **Node Net** | **NODE NETWORK SYSTEM TO MANAGE COLLAB AND TASKS**| 
+| **Women Safety Device (Patented)** | **WOMEN SAFETY DEVICE WITH SOS SYSTEM** | **PATENTED** |  Offline Product |
+| **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |[OfferHub](https://adityas-offerhub.vercel.app/) |
 | **EngiWorld** | **ENGINEER STUD ALL IN ONE SOLUTION** |
-| **FlatMate** | **FIND A ROOMMATE SITE LIKE NOBROKER** |
+| **ForYou&Me** | **A RANDOM DATE MATCHING PLATFORM** |
+| **ForYou&Me** | **A LOVE PAIR THINGS SHOPPING PLATFORM** |
 | **Mission Feed India** |  **PM MODEL TO SUPPLY FOOD TO POOR PEOPLE** |
+| **Node Net** | **NODE NETWORK SYSTEM TO MANAGE COLLAB AND TASKS**| 
+| **FlatMate** | **FIND A ROOMMATE SITE LIKE NOBROKER** |
 | **Te Amo** | **MY OWN SOCIAL MEDIA SITE** |
 | **Suggest Me** | **AI BASED DAILY LIFE SUGGESTIONS** |
 | **Gym Anywhere** | **MANAGE GYM ANYWHERE IN ANY CITY** |
 | **LMS Site** | **STUDENT COURSE MANAGE SITE** |
 | **React Component Liblary** | **NEW REACT COMPONENTS** |
-| **ForYou&Me** | **A LOVE PAIR THINGS SHOPPING PLATFORM** |
 
 ---
 
