@@ -15,7 +15,7 @@
 ### 🚧 Upcoming Projects  
 
 | Project Name |  Details | Status |  See Online |
-|---------------|--------------- |---------------|------------------------|
+|---------------|--------------- |-------------------|------------------------|
 | **Women Safety Device (Patented)** | **WOMEN SAFETY DEVICE WITH SOS SYSTEM** | **PATENTED** |  Offline Product |
 | **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |[OfferHub](https://adityas-offerhub.vercel.app/) |
 | **EngiWorld** | **ENGINEER STUD ALL IN ONE SOLUTION** | **8 Dec** |[EngiWorld]()
