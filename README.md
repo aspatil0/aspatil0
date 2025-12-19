@@ -20,7 +20,7 @@
 | **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |[OfferHub](https://adityas-offerhub.vercel.app/) |
 | **EngiWorld** | **ENGINEER STUD ALL IN ONE SOLUTION** | **8 Dec** |[EngiWorld]()
 | **ForYou&Me** | **A RANDOM DATE MATCHING PLATFORM** |**5 December** |[You&Me](https://youandmepune.vercel.app/) |
-| **ForYou&Me** | **A LOVE PAIR THINGS SHOPPING PLATFORM** |
+| **ForYou&Me- Shopping Platform** | **A LOVE PAIR THINGS SHOPPING PLATFORM** |
 | **Mission Feed India** |  **PM MODEL TO SUPPLY FOOD TO POOR PEOPLE** |
 | **Node Net** | **NODE NETWORK SYSTEM TO MANAGE COLLAB AND TASKS**| 
 | **FlatMate** | **FIND A ROOMMATE SITE LIKE NOBROKER** |
