@@ -27,7 +27,6 @@
 | **Te Amo** | **MY OWN SOCIAL MEDIA SITE** |
 | **Suggest Me** | **AI BASED DAILY LIFE SUGGESTIONS** |
 | **Gym Anywhere** | **MANAGE GYM ANYWHERE IN ANY CITY** |
-| **LMS Site** | **STUDENT COURSE MANAGE SITE** |
 | **React Component Liblary** | **NEW REACT COMPONENTS** |
 
 ---
