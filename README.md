@@ -12,7 +12,7 @@
 
 ---
 
-### 🚧 Upcoming Projects  
+### 🚧 Upcoming Projects 
 
 | Project Name |  Details | Status |  See Online |
 |---------------|--------------- |-------------------|------------------------|
@@ -28,6 +28,7 @@
 | **Suggest Me** | **AI BASED DAILY LIFE SUGGESTIONS** |
 | **Gym Anywhere** | **MANAGE GYM ANYWHERE IN ANY CITY** |
 | **React Component Liblary** | **NEW REACT COMPONENTS** |
+| **Devinetech Official Webiste** | **Business Webiste** |
 
 ---
 
