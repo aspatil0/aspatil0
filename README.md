@@ -33,8 +33,7 @@
 ---
 
 ### 🔭 Currently Working On  
-**OfferHub** — building and optimizing it for real-time offer aggregation.  
-
+**GYM MANAGEMENT SYSTEM** - **A FULLY GYM MANAGEMENT WEBISTE**
 ### 🌱 Currently Learning  
 Advancing in **MERN Stack Development** and **Next.js 15** for scalable deployments.  
 
