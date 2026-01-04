@@ -24,11 +24,8 @@
 | **Mission Feed India** |  **PM MODEL TO SUPPLY FOOD TO POOR PEOPLE** |
 | **Node Net** | **NODE NETWORK SYSTEM TO MANAGE COLLAB AND TASKS**| 
 | **FlatMate** | **FIND A ROOMMATE SITE LIKE NOBROKER** |
-| **Te Amo** | **MY OWN SOCIAL MEDIA SITE** |
-| **Suggest Me** | **AI BASED DAILY LIFE SUGGESTIONS** |
 | **Gym Anywhere** | **MANAGE GYM ANYWHERE IN ANY CITY** |
-| **React Component Liblary** | **NEW REACT COMPONENTS** |
-| **Devinetech Official Webiste** | **Business Webiste** |
+
 
 ---
 
