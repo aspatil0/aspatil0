@@ -17,7 +17,7 @@
 | Project Name |  Details | Status |  See Online |
 |---------------|--------------- |-------------------|------------------------|
 | **Women Safety Device (Patented)** | **WOMEN SAFETY DEVICE WITH SOS SYSTEM** | **PATENTED** |  IOT Product |
-| **Novel Scanner For Scam Detection (IJSREM)** | **PAYMENT SCAM DETECTOR AND ALERT SHYSTEM** | **PAPER** |  IOT Product |
+| **Novel Scanner For Scam Detection (IJSREM)** | **PAYMENT SCAM DETECTOR AND ALERT SHYSTEM** | **RESEARCH PAPER** |  IOT Product |
 | **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |[OfferHub](https://adityas-offerhub.vercel.app/) |
 | **EngiWorld** | **ENGINEER STUD ALL IN ONE SOLUTION** | **8 Dec** |[EngiWorld]()
 | **ForYou&Me** | **A RANDOM DATE MATCHING PLATFORM** |**5 December** |[You&Me](https://youandmepune.vercel.app/) |
