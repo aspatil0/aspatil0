@@ -32,7 +32,7 @@
 ---
 
 ### 🔭 Currently Working On  
-**GYM MANAGEMENT SYSTEM** - **A FULLY GYM MANAGEMENT WEBISTE**
+**Q-SMART**
 ### 🌱 Currently Learning  
 Advancing in **MERN Stack Development** and **Next.js 15** for scalable deployments.  
 
