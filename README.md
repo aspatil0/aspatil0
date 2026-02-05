@@ -38,7 +38,7 @@ Advancing in **MERN Stack Development** and **Next.js 15** for scalable deployme
 
 ### 💼 Portfolio  
 Check out my projects and work portfolio here:  
-🔗 [VISIT SITE](https://devinetechsolutions.in/)
+🔗 [VISIT SITE](https://patiladityaraj.netlify.app/)
 
 ### 📫 Reach Me At  
 ✉️ **aspatil2904@gmail.com**
