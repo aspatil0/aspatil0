@@ -1,66 +1,21 @@
-<h1 align="center">👋 Hi, I'm Adityaraj Patil</h1>
-<h3 align="center">🚀 Full-Stack Web Developer</h3>
+# 💫 About Me:
+I’m Adityaraj Patil, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.<br><br>I currently work as a Mentor & Trainer, delivering technical guidance and project-based learning under DevineTech Solutions (SaaS), where I focus on practical development, architecture clarity, and industry-ready skills.<br><br>Alongside this, I am actively working with Dexpert Systems, contributing to development and learning in advanced system design and modern technology stacks.<br><br>💻 What I Do<br><br>Full Stack Web Development (Frontend & Backend)<br><br>Mentoring & Training aspiring developers<br><br>Project Architecture & System Design<br><br>Research-oriented and problem-solving based development<br><br>Guiding interns on real-world applications and best practices<br><br>🚀 Interests<br><br>Scalable SaaS applications<br><br>AI-assisted systems & automation<br><br>Clean code, system thinking, and product mindset<br><br>Teaching through real projects<br><br>📌 Philosophy<br><br>Build with purpose. Learn continuously. Teach what you master.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_adi29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adityaraj Patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ASPATIL2904@GMAIL.COM) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aspatil0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aspatil0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aspatil0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=aspatil0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧠 About Me  
-
-🎓 Pursuing **B.E. in Computer Engineering** from *Trinity College of Engineering, Pune*.  
-💻 Passionate about building **scalable, secure, and user-friendly web applications** using **React**, **Next.js**, **Node.js**, **PHP**, and **MySQL**.  
-🔬 I also work on **IoT & AI-driven innovations**, with one of my projects **patented** for women’s safety.  
-🚀 I’m on a mission to blend technology, innovation, and creativity to make impactful digital products.  
-
----
-
-### 🚧 Upcoming Projects 
-
-| Project Name |  Details | Status |  See Online |
-|---------------|--------------- |-------------------|------------------------|
-| **Women Safety Device (Patented)** | **WOMEN SAFETY DEVICE WITH SOS SYSTEM** | **PATENTED** |  IOT Product |
-| **Novel Scanner For Scam Detection (IJSREM)** | **PAYMENT SCAM DETECTOR AND ALERT SHYSTEM** | **RESEARCH PAPER** |  IOT Product |
-| **OfferHub** | **OFFER DISPLAY SITE ALSO COUPEN ADDON SYSTEM** | **3 December** |[OfferHub](https://adityas-offerhub.vercel.app/) |
-| **EngiWorld** | **ENGINEER STUD ALL IN ONE SOLUTION** | **8 Dec** |[EngiWorld]()
-| **ForYou&Me** | **A RANDOM DATE MATCHING PLATFORM** |**5 December** |[You&Me](https://youandmepune.vercel.app/) |
-| **ForYou&Me- Shopping Platform** | **A LOVE PAIR THINGS SHOPPING PLATFORM** |
-| **Mission Feed India** |  **PM MODEL TO SUPPLY FOOD TO POOR PEOPLE** |
-| **Node Net** | **NODE NETWORK SYSTEM TO MANAGE COLLAB AND TASKS**| 
-| **FlatMate** | **FIND A ROOMMATE SITE LIKE NOBROKER** |
-| **Gym Anywhere** | **MANAGE GYM ANYWHERE IN ANY CITY** |
-| **Token Builder For Gov.**| **Reduce Efforts by making queue based data management**|
-
-
----
-
-### 🔭 Currently Working On  
-**Q-SMART**
-### 🌱 Currently Learning  
-Advancing in **MERN Stack Development** and **Next.js 15** for scalable deployments.  
-
-### 💼 Portfolio  
-Check out my projects and work portfolio here:  
-🔗 [VISIT SITE](https://patiladityaraj.netlify.app/)
-
-### 📫 Reach Me At  
-✉️ **aspatil2904@gmail.com**
-
----
-
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/adityaraj-patil" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adityaraj Patil" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/iam_adi29" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_adi29" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aspatil0&show_icons=true&locale=en&layout=compact" alt="aspatil0" /></p> -->
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
