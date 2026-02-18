@@ -2,7 +2,7 @@
 I’m Adityaraj Patil, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.<br><br>I currently work as a Mentor & Trainer, delivering technical guidance and project-based learning under DevineTech Solutions, where I focus on practical development, architecture clarity, and industry-ready skills.<br><br>Alongside this, I am actively working with Dexpert Systems, contributing to development and learning in advanced system design and modern technology stacks.<br><br>💻 What I Do<br><br>Full Stack Web Development (Frontend & Backend)<br><br>Mentoring & Training aspiring developers<br><br>Project Architecture & System Design<br><br>Research-oriented and problem-solving based development<br><br>Guiding interns on real-world applications and best practices<br><br>🚀 Interests<br><br>AI-assisted systems & automation<br><br>Clean code, system thinking, and product mindset<br><br>Teaching through real projects<br><br>📌 Philosophy<br><br>Build with purpose. Learn continuously. Teach what you master.
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_adi29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ASPATIL2904@GMAIL.COM) 
 
 # 💻 Tech Stack:
