@@ -83,15 +83,32 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Upcoming Projects
 
-> Replace these placeholders with your actual projects to showcase your skills!
+1. **FLAT MATE** - [Upcoming]
+2. **NODE NET** - [Upcoming]
+3. **ENGIWORLD** - [Upcoming]
+4. **TEAMO :DIY STORE** - [Upcoming]
+5. **DAILY ROUTINE TRACKER** - [Upcoming]
 
-| 🥇 **Project Name** | 🥈 **Project Name** |
-| :--- | :--- |
-| **Description:** A brief description of what this project does and the problem it solves.<br><br>**Tech Stack:** React, Node.js, Express, MongoDB<br><br>🔗 [Live Demo](#) \| 📂 [Source Code](#) | **Description:** A brief description of what this project does and the problem it solves.<br><br>**Tech Stack:** Next.js, TypeScript, Tailwind, PostgreSQL<br><br>🔗 [Live Demo](#) \| 📂 [Source Code](#) |
+---
 
-<br>
+## 🛠️ IoT Projects (Patented)
+
+1. **WOMEN SAFETY DEVICE** 
+2. **IOT BASED NOVEL SCENNER**
+
+---
+
+## 📖 Author of Books
+
+1. **LAST SIX DAYS**
+2. **THE LOVE I CANT HOLD**
+3. **THE TUNNEL PARADOX**
+4. **I KILLED MYSELF**
+5. **THE FALL OF YASAKA**
+6. **IS THIS FIRST ?**
+
 
 ## 📊 GitHub Stats
 
