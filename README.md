@@ -105,22 +105,19 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 
 <br>
 
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspatil0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+
 
 <br>
 
 <!-- Optional: Snake Animation - You can easily set this up with a GitHub Action if you don't have it yet! -->
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
   </picture>
-</div> 
+</div>  -->
 
 
 ---
