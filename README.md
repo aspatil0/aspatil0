@@ -95,9 +95,6 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aspatil0&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="aspatil0's GitHub Stats" />
   
   <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
