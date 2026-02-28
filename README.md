@@ -113,7 +113,7 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 <br>
 
 <!-- Optional: Snake Animation - You can easily set this up with a GitHub Action if you don't have it yet! -->
-<!-- 
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake-dark.svg">
@@ -121,7 +121,7 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
   </picture>
 </div> 
--->
+
 
 ---
 <div align="center">
