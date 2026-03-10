@@ -83,13 +83,6 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 
 <br>
 
-## 🚀 Upcoming Projects
-
-1. **FLAT MATE** - [Upcoming]
-2. **NODE NET** - [Upcoming]
-3. **ENGIWORLD** - [Upcoming]
-4. **TEAMO :DIY STORE** - [Upcoming]
-5. **DAILY ROUTINE TRACKER** - [Upcoming]
 
 ---
 
