@@ -89,7 +89,7 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 ## 🛠️ IoT Projects (Patented)
 
 1. **WOMEN SAFETY DEVICE** 
-2. **IOT BASED NOVEL SCENNER**
+2. **IOT BASED NOVEL SCANNER**
 
 ---
 
