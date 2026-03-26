@@ -102,11 +102,9 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 6. **IS THIS FIRST ?**
 
 
-## 📊 GitHub Stats
 
   
   <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
 </div>
 
 <br>
