@@ -99,7 +99,6 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 3. **THE TUNNEL PARADOX**
 4. **I KILLED MYSELF**
 5. **THE FALL OF YASAKA**
-6. **IS THIS FIRST ?**
 
 
 
