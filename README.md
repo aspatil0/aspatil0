@@ -1,129 +1,219 @@
 <h1 align="center">Hi 👋, I'm Adityaraj Patil</h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | 📚 Author | 🧠 Mentor | ⚡ IoT Innovator
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;+Enthusiast;Building+Scalable+Web+Apps;" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Author+%26+Story+Writer;IoT+Innovator+%26+Researcher;Building+Scalable+Applications;Mentoring+Future+Developers;Turning+Ideas+Into+Reality+🚀" />
 </p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:ASPATIL2904@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!-- <a href="https://www.linkedin.com/in/adityarajpatil/">
-    <img src="https://img.shields.io/badge/Linkdln-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a> -->
-  <!-- Add your LinkedIn or Twitter here if you want! -->
-  <a href="https://linkedin.com/in/adityarajpatil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+  <a href="https://linkedin.com/in/adityarajpatil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/aspatil0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
-## 💫 About Me
-
-I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
-
-- 🏢 I currently work as a **Mentor & Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
-- 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
-
-### 💻 What I Do
-- 🌐 Full Stack Web Development (Frontend & Backend)
-- 🎓 Mentoring & Training aspiring developers
-- 🏗️ Project Architecture & System Design
-- 🔬 Research-oriented and problem-solving based development
-- 🤝 Guiding interns on real-world applications and best practices
-
-### 🚀 Interests
-- 🤖 AI-assisted systems & automation
-- 🧩 Clean code, system thinking, and product mindset
-- 📚 Teaching through real projects
-
-### 📌 Philosophy
-> *"Build with purpose. Learn continuously. Teach what you master."*
-
-<br>
-
-## 💻 Tech Stack
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <br>
-  <!-- Frontend & Backend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <br>
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <br>
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="AmazonDynamoDB" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <br>
-  <!-- Tools & Testing -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-</p>
-
-<br>
-
 
 ---
 
-## 🛠️ IoT Projects (Patented)
+# 💫 About Me
 
-1. **WOMEN SAFETY DEVICE** 
-2. **IOT BASED NOVEL SCANNER**
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I’m **Adityaraj Patil**, a passionate developer and creator focused on building impactful digital products, mentoring aspiring developers, and writing stories that connect deeply with emotions and psychology.
+
+- 🔭 Working on scalable web applications & real-world systems
+- 🧠 Exploring AI-assisted systems & automation
+- 📚 Author of psychological thrillers and self-growth books
+- 🎯 Mentor & Technical Trainer at **DevineTech**
+- ⚡ Building IoT & research-based projects
+- 🚀 Focused on product thinking, clean architecture & innovation
 
 ---
 
-## 📖 Author of Books
+# 🚀 Tech Stack
 
-1. **LAST SIX DAYS**
-2. **THE LOVE I CANT HOLD**
-3. **THE TUNNEL PARADOX**
-4. **I KILLED MYSELF**
-5. **THE FALL OF YASAKA**
+## 👨‍💻 Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,c,html,css" />
+</p>
 
+## ⚛️ Frontend & Backend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,linux" />
+</p>
+
+## 🧠 AI / Data / Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</p>
+
+---
+
+# 🏢 Experience
+
+## 🚀 DevineTech Solutions
+### Founder • Mentor • Technical Trainer
+
+- Mentoring students in Full Stack Development
+- Managing real-world projects & internships
+- Conducting project-based technical sessions
+- Building scalable products & client systems
+
+---
+
+# 🛠️ Featured Projects
+
+## 🚨 Women Safety Device
+An IoT-based emergency safety system using Arduino, GSM, and GPS modules with:
+- 📍 Live Location Tracking
+- 📞 Emergency Calling
+- 🔔 SOS Alert System
+- ⚡ Self-Defense Shock Module
+
+---
+
+## 🔍 IoT Based Novel Scanner
+A smart fraud-detection scanner system capable of validating:
+- QR Codes
+- Transaction IDs
+- Financial authenticity checks
+
+---
+
+## 💰 Money Management Application
+A smart finance tracking platform for:
+- Expense Monitoring
+- Daily Budget Management
+- Financial Analytics
+- User Activity Tracking
+
+---
+
+## 🤖 ParseHub
+AI-powered resume analysis platform that:
+- Analyzes resumes
+- Matches company requirements
+- Generates recommendations & summaries
+
+---
+
+# 📖 Author & Story Creator
+
+Beyond coding, I write books focused on psychology, emotions, thrillers, philosophy, and self-growth.
+
+---
+
+## ✨ Published & Upcoming Books
+
+### 📘 Last Six Days
+A psychological countdown thriller about survival, fear, and death.
+
+🔗 https://www.amazon.com/Last-Six-Days-Countdown-Death-ebook/dp/B0FLLSVZVK
+
+---
+
+### ❤️ The Love I Can’t Hold
+An emotional love story filled with sacrifice, pain, attachment, and emotional conflict.
+
+🔗 https://www.amazon.com/gp/product/B0FLG6S9JW/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&psc=1
+
+---
+
+### 🧠 I Killed Myself
+A dark psychological fiction exploring trauma, identity, and inner destruction.
+
+---
+
+### 🌌 The Tunnel Paradox
+A mystery-thriller blending suspense, philosophy, and distorted reality.
+
+---
+
+### 💔 Do You Still Love Me?
+A deep emotional story about regret, timing, distance, and love.
+
+---
+
+### 📈 Solve Better
+A life-theory and mindset based book focused on solving real-life problems logically.
+
+---
+
+### 🎩 The Gentleman’s Code
+A modern philosophy book about discipline, respect, mindset, masculinity, and self-growth.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aspatil0&show_icons=true&theme=tokyonight" height="180em"/>
   
-  <!-- Streak Stats -->
-</div>
-
-<br>
-
-
-
-<br>
-
-<!-- Optional: Snake Animation - You can easily set this up with a GitHub Action if you don't have it yet! -->
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>  -->
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspatil0&theme=tokyonight" height="180em"/>
+</p>
 
 ---
-<div align="center">
-  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing! 🚀</i>
-</div>
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aspatil0&theme=algolia&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aspatil0&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧠 Philosophy
+
+<p align="center">
+  <i>
+    "Build with purpose. Learn continuously. Teach what you master."
+  </i>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```js
+while(alive){
+   learn();
+   build();
+   teach();
+   evolve();
+}
