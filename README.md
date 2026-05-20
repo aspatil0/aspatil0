@@ -79,8 +79,8 @@ I’m **Adityaraj Patil**, a passionate developer and creator focused on buildin
 
 # 🏢 Experience
 
-## 🚀 DevineTech Solutions
-### Founder • Mentor • Technical Trainer
+## 🚀 DevineTech Solutions And Menteronics
+###  Mentor • Technical Trainer
 
 - Mentoring students in Full Stack Development
 - Managing real-world projects & internships
@@ -91,7 +91,7 @@ I’m **Adityaraj Patil**, a passionate developer and creator focused on buildin
 
 # 🛠️ Featured Projects
 
-## 🚨 Women Safety Device
+## 🚨 Women Safety Device [Patent]
 An IoT-based emergency safety system using Arduino, GSM, and GPS modules with:
 - 📍 Live Location Tracking
 - 📞 Emergency Calling
@@ -100,7 +100,7 @@ An IoT-based emergency safety system using Arduino, GSM, and GPS modules with:
 
 ---
 
-## 🔍 IoT Based Novel Scanner
+## 🔍 IoT Based Novel Scanner [Personal Research Paper]
 A smart fraud-detection scanner system capable of validating:
 - QR Codes
 - Transaction IDs
@@ -108,20 +108,12 @@ A smart fraud-detection scanner system capable of validating:
 
 ---
 
-## 💰 Money Management Application
+## 💰 Money Management Application [Application]
 A smart finance tracking platform for:
 - Expense Monitoring
 - Daily Budget Management
 - Financial Analytics
 - User Activity Tracking
-
----
-
-## 🤖 ParseHub
-AI-powered resume analysis platform that:
-- Analyzes resumes
-- Matches company requirements
-- Generates recommendations & summaries
 
 ---
 
