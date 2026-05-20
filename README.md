@@ -202,7 +202,7 @@ A modern philosophy book about discipline, respect, mindset, masculinity, and se
 
 <p align="center">
   <i>
-    "Build with purpose. Learn continuously. Teach what you master."
+    "veni vidi vici"
   </i>
 </p>
 
