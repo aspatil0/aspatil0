@@ -208,12 +208,3 @@ A modern philosophy book about discipline, respect, mindset, masculinity, and se
 
 ---
 
-# ⚡ Fun Fact
-
-```js
-while(alive){
-   learn();
-   build();
-   teach();
-   evolve();
-}
