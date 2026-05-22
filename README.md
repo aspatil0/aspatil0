@@ -149,10 +149,6 @@ A mystery-thriller blending suspense, philosophy, and distorted reality.
 
 ---
 
-### 💔 Do You Still Love Me?
-A deep emotional story about regret, timing, distance, and love.
-
----
 
 ### 📈 Solve Better
 A life-theory and mindset based book focused on solving real-life problems logically.
