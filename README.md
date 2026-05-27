@@ -186,13 +186,5 @@ A modern philosophy book about discipline, respect, mindset, masculinity, and se
 
 ---
 
-# 🧠 Philosophy
 
-<p align="center">
-  <i>
-    "veni vidi vici"
-  </i>
-</p>
-
----
 
