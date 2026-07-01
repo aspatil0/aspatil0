@@ -160,29 +160,6 @@ A modern philosophy book about discipline, respect, mindset, masculinity, and se
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aspatil0&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspatil0&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aspatil0&theme=algolia&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aspatil0&theme=tokyo-night"/>
-</p>
 
 ---
 
