@@ -122,11 +122,11 @@ Contributed to an enterprise management platform supporting administrative opera
 
 **Technologies:** Node.js, NestJS, REST APIs, gRPC, MySQL, Redis, Nginx.
 
-### 02. Freshways — Grocery E-commerce Platform
+### 02. Te-AMO — Grocery E-commerce Platform
 
-**Domain:** E-commerce · Multi-role Applications
+**Domain:** E-commerce Customized Platform  · Multi-role Applications
 
-A grocery and daily-needs platform designed around multiple user roles and order-management workflows.
+A Gifts, Items and daily-needs platform designed around multiple user roles..
 
 - Super Admin, Vendor, and Customer roles.
 - Product catalog and order management.
@@ -187,7 +187,6 @@ I also explore independent product ideas focused on solving practical problems t
 | **TrackX** | Tracking-focused product concept |
 | **Capsule** | Website-to-app conversion product concept |
 | **OfferHub** | Product offers and price-discovery platform concept |
-| **SeaConnect** | Maritime crew, certification, and ship-management platform concept |
 
 These products represent a mix of product concepts and development initiatives. Their implementation and release status may differ.
 
