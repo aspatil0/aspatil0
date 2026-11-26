@@ -1,259 +1,169 @@
-# Adityaraj Patil
-
+<!-- ══════════════════════════  HEADER  ══════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Developer+%40+Dexpert+Systems;Full-Stack+%26+Backend+Engineering;Building+Products+That+Solve+Real+Problems;Microservices+%7C+APIs+%7C+IoT;Developer+by+Profession.+Author+by+Passion." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/aspatil0">
-    <img src="https://img.shields.io/badge/GitHub-aspatil0-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/adityarajpatil">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Adityaraj%20Patil&fontSize=58&fontColor=E2E8F0&fontAlignY=36&desc=I%20build%20systems%20by%20day%20%E2%80%A2%20games%20by%20night%20%E2%80%A2%20stories%20in%20between&descSize=16&descAlignY=58&animation=fadeIn" alt="Adityaraj Patil"/>
 </p>
 
 <p align="center">
-  <code>Software Engineering</code> · <code>Full-Stack Development</code> · <code>System Design</code> · <code>Product Development</code>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Developer+%40+Dexpert+Systems;Backend+%E2%80%A2+Microservices+%E2%80%A2+gRPC+%E2%80%A2+APIs;Indie+Game+Dev+in+Godot+%F0%9F%8E%AE;Published+Author+%E2%80%94+6+books+%F0%9F%93%9A;IoT+tinkerer+with+a+filed+patent+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
----
-
-## `$ whoami`
-
-I'm **Adityaraj Patil**, a Software Developer at **Dexpert Systems**, passionate about building reliable applications, scalable backend systems, and technology-driven products.
-
-My work spans full-stack development, REST APIs, database design, enterprise workflows, microservices, and IoT-based solutions. I enjoy taking ideas from concept to implementation, solving complex engineering problems, and creating software that addresses real-world needs.
-
-Beyond software engineering, I'm also an author interested in psychology, human behaviour, philosophy, and self-growth.
-
-- **Current role:** Software Developer at Dexpert Systems
-- **Education:** M.Tech in Computer Science
-- **Core focus:** Full-stack engineering, backend architecture, APIs, and databases
-- **Product interests:** SaaS platforms, automation, AI-assisted applications, and IoT
-- **Outside engineering:** Author, researcher, and product enthusiast
-
----
-
-## `$ tech-stack`
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,c,html,css" alt="Programming languages"/>
+<p align="center">
+  <a href="https://linkedin.com/in/adityarajpatil"><img src="https://img.shields.io/badge/LinkedIn-adityarajpatil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aspatil2904@gmail.com"><img src="https://img.shields.io/badge/Email-aspatil2904-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://thelasthire.netlify.app/"><img src="https://img.shields.io/badge/Play-The_Final_Hire-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/></a>
+  <a href="https://www.amazon.com/Last-Six-Days-Countdown-Death-ebook/dp/B0FLLSVZVK"><img src="https://img.shields.io/badge/Read-My_Books-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/></a>
 </p>
 
-### Frontend Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend technologies"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aspatil0&label=Profile%20views&color=38BDF8&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/📍-Pune,_India-1E293B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_to-Backend_%26_Full--Stack_roles-22C55E?style=flat-square"/>
 </p>
 
-### Backend & APIs
+<!-- ══════════════════════════  ABOUT  ══════════════════════════ -->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend technologies"/>
+```ts
+const adityaraj = {
+  role:        "Software Developer @ Dexpert Systems",
+  basedIn:     "Pune, India 🇮🇳",
+  education:   "M.Tech — Computer Science",
+  dayJob:      ["enterprise platforms", "microservices", "REST & gRPC APIs", "payroll & billing workflows"],
+  nightShift:  ["Godot games", "IoT hardware", "SaaS side-builds"],
+  alsoWrites:  ["psychological thrillers", "fiction", "self-growth"],
+  learningNow: ["RAG pipelines", "multi-tenant SaaS", "3D game dev"],
+  motto:       "Ship it. Break it. Fix it. Write about it.",
+};
+```
+
+<!-- ══════════════════════════  THREE MODES  ══════════════════════════ -->
+
+## ⚡ Three modes, one person
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 Engineer</h3>
+      <p align="center"><sub>Backend · Full-Stack · Systems</sub></p>
+      Enterprise HRMS, billing &amp; ledger workflows, RBAC, Maker–Checker payroll, API gateways and multi-service debugging in production.
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎮 Game Dev</h3>
+      <p align="center"><sub>Godot · Story · Horror</sub></p>
+      Shipped my first story game, <a href="https://thelasthire.netlify.app/"><b>The Final Hire</b></a>. Now building <b>WADA</b>, a 3D first-person horror set in an old Pune wada.
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">✍️ Author</h3>
+      <p align="center"><sub>Thriller · Fiction · Self-Growth</sub></p>
+      Six books on psychology, human behaviour and the choices that shape us — from countdown thrillers to practical problem-solving.
+    </td>
+  </tr>
+</table>
+
+<!-- ══════════════════════════  STACK  ══════════════════════════ -->
+
+## 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,cpp,c&perline=12" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,tailwind&perline=12" alt="Web"/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,firebase&perline=12" alt="Data"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,postman&perline=12" alt="DevOps"/><br/>
+  <img src="https://skillicons.dev/icons?i=godot,arduino,opencv,tensorflow,pytorch&perline=12" alt="Games, IoT, AI"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/REST_APIs-Engineering-2563EB?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Microservices-Architecture-7C3AED?style=flat-square" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/gRPC-Service_Communication-0EA5E9?style=flat-square" alt="gRPC"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/gRPC-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RBAC-0F766E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
-### Databases & Backend Services
+<!-- ══════════════════════════  EXPERIENCE  ══════════════════════════ -->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,redis" alt="Databases and services"/>
-</p>
+## 💼 Where I work
 
-### Cloud, DevOps & Developer Tools
+> **Software Developer · Dexpert Systems** &nbsp;·&nbsp; *Jul 2026 – Present*
+>
+> Building enterprise software end to end: billing, contracts, staff management, role-based access, payment flows and workflow automation across a multi-service architecture. I spend a good part of my week inside API gateways and logs, making production calmer than I found it.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,nginx,aws,postman" alt="Cloud and developer tools"/>
-</p>
+> **Technical Mentor & Trainer · DevineTech Solutions / Menteronics**
+>
+> Project-based training in full-stack development; guiding interns from blank repo to working app.
 
-### IoT, AI & Data Tools
+<!-- ══════════════════════════  PROJECTS  ══════════════════════════ -->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,python,opencv,tensorflow,pytorch" alt="IoT and AI tools"/>
-  <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
+## 🚀 Things I've built
 
----
+| | Project | What it is | Built with |
+|:-:|---|---|---|
+| 🏢 | **Enterprise HRMS Platform** | Staff, attendance, leave, Maker–Checker payroll, invoicing & ledgers over microservices | NestJS · gRPC · MySQL · Redis · Nginx |
+| 🛒 | **Te-AMO** | Multi-role commerce for gifts & daily needs — Super Admin, Vendor, Customer | React · Node · Express · MongoDB |
+| 🛡️ | **DefendHer** | Women's safety device: one-press SOS, live GPS, GSM emergency calls · **patent filed** | Arduino · SIM900A · NEO-6M |
+| 🔍 | **IoT Novel Scanner** | Research build that validates payment QR / transaction IDs to flag fake payment proof | IoT · QR · Verification logic |
+| 💰 | **Money Manager** | Expense tracking, budgets and spending analytics in your pocket | React Native · Expo · Supabase |
+| 🎮 | **[The Final Hire](https://thelasthire.netlify.app/)** | My first story-driven game — playable in the browser | Godot |
 
-## `$ experience`
+<details>
+<summary><b>🔨 On the workbench right now</b> (click to open)</summary>
+<br/>
 
-### Software Developer — Dexpert Systems
-
-*July 2026 – Present*
-
-- Develop and maintain full-stack applications and business software.
-- Work across frontend interfaces, backend services, REST APIs, and database integrations.
-- Contribute to enterprise platforms involving billing, contracts, staff management, and business workflows.
-- Implement role-based access control, workflow automation, payment-related functionality, and system integrations.
-- Troubleshoot production issues, improve API reliability, and support deployment-related fixes.
-- Work with service-oriented architectures and multi-service application environments.
-
-### Technical Mentor & Trainer — DevineTech Solutions / Menteronics
-
-- Mentor students in full-stack development and modern web technologies.
-- Conduct practical, project-based training sessions.
-- Support internship projects, application development, and technical problem-solving.
-
----
-
-## `$ selected-engineering-projects`
-
-### 01. Enterprise Management & HRMS Platform
-
-**Domain:** Enterprise Software · HRMS · Financial Workflows
-
-Contributed to an enterprise management platform supporting administrative operations, staff management, contracts, billing, and financial workflows.
-
-- Role-based access control and staff management.
-- Maker–Checker payroll verification workflows.
-- Attendance, leave management, and administrative reporting.
-- Billing, invoice processing, payment workflows, and ledger functionality.
-- Microservices integration and API Gateway troubleshooting.
-
-**Technologies:** Node.js, NestJS, REST APIs, gRPC, MySQL, Redis, Nginx.
-
-### 02. Te-AMO — Grocery E-commerce Platform
-
-**Domain:** E-commerce Customized Platform  · Multi-role Applications
-
-A Gifts, Items and daily-needs platform designed around multiple user roles..
-
-- Super Admin, Vendor, and Customer roles.
-- Product catalog and order management.
-- Payment-related workflows and reporting.
-- Backend API development and integration.
-- Application security and access-control improvements.
-
-**Technologies:** React, Node.js, Express, MongoDB.
-
-### 03. Women Safety Device — DefendHer
-
-**Domain:** IoT · Personal Safety · Embedded Systems
-
-An emergency safety device concept designed to help users trigger alerts and communicate their location during emergency situations.
-
-- SOS alert mechanism.
-- GPS-based location tracking.
-- GSM-based emergency calling.
-- Embedded hardware integration.
-- Patent application filed.
-
-**Hardware:** Arduino Uno, SIM900A GSM module, NEO-6M GPS module.
-
-### 04. IoT-Based Novel Scanner
-
-**Domain:** IoT · Fraud Detection · Research
-
-A research-oriented concept for validating transaction-related information and identifying potentially fraudulent payment evidence.
-
-- QR code scanning and validation.
-- Transaction identifier verification.
-- Financial authenticity checks.
-- Fraud-detection workflow exploration.
-
-### 05. Money Manager
-
-**Domain:** Personal Finance · Application Development
-
-A personal finance application concept focused on making expense tracking and budgeting easier.
-
-- Income and expense tracking.
-- Daily spending records.
-- Budget monitoring.
-- Financial summaries and analytics.
-
-**Technologies:** React Native, Expo, Supabase.
-
----
-
-## `$ products & product-ideas`
-
-I also explore independent product ideas focused on solving practical problems through software.
-
-| Product | Focus |
+| Build | Status |
 |---|---|
-| **You & Me** | Relationship and matchmaking platform concept |
-| **Hostel OS** | Hostel and PG management SaaS concept |
-| **TrackX** | Tracking-focused product concept |
-| **Capsule** | Website-to-app conversion product concept |
-| **OfferHub** | Product offers and price-discovery platform concept |
+| 👻 **WADA** — 5-night watchman horror in a Pune wada, Kasba Peth (3D, first-person) | `Night 1 in progress` |
+| 🚽 **Toilet Rush** — chaotic multiplayer party race, 3 rounds, 1 winner | `Designing` |
+| 🤖 **Ask-Adityaraj** — RAG chatbot that answers questions about me | `Building` |
+| 🏠 **Hostel OS** — multi-tenant hostel & PG management SaaS | `Building` |
+| 📱 **Capsule** — turn any website into an Android app, no code | `Concept` |
+| 🎯 **TrackX · OfferHub · You & Me** — tracking, price-discovery and matchmaking ideas | `Concept` |
 
-These products represent a mix of product concepts and development initiatives. Their implementation and release status may differ.
+</details>
 
----
+<!-- ══════════════════════════  BOOKS  ══════════════════════════ -->
 
-## `$ github-analytics`
+## 📚 The bookshelf
+
+<table>
+  <tr>
+    <td align="center" width="16%">🔪<br/><a href="https://www.amazon.com/Last-Six-Days-Countdown-Death-ebook/dp/B0FLLSVZVK"><b>Last Six Days</b></a><br/><sub>Psychological thriller</sub></td>
+    <td align="center" width="16%">💔<br/><a href="https://www.amazon.com/gp/product/B0FLG6S9JW"><b>The Love I Can't Hold</b></a><br/><sub>Emotional fiction</sub></td>
+    <td align="center" width="16%">🌑<br/><b>I Killed Myself</b><br/><sub>Dark psychological</sub></td>
+    <td align="center" width="16%">🌀<br/><b>The Tunnel: Paradox</b><br/><sub>Time-loop mystery</sub></td>
+    <td align="center" width="16%">🧩<br/><b>Solve Better</b><br/><sub>Problem-solving</sub></td>
+    <td align="center" width="16%">🎩<br/><b>The Gentleman's Code</b><br/><sub>Mindset & respect</sub></td>
+  </tr>
+</table>
+
+<p align="center"><i>Code teaches me how systems work. Writing teaches me how people do.</i></p>
+
+<!-- ══════════════════════════  STATS  ══════════════════════════ -->
+
+## 📊 Commit log
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aspatil0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspatil0&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aspatil0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspatil0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aspatil0&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aspatil0&bg_color=0F172A&color=94A3B8&line=38BDF8&point=E2E8F0&area=true&hide_border=true" alt="Activity graph"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aspatil0&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+<!-- ══════════════════════════  CONNECT  ══════════════════════════ -->
+
+## 🤝 Let's build something
+
+I'm up for backend and full-stack work, SaaS products, IoT builds — and I'll happily talk game design or storytelling too.
+
+```bash
+$ ping adityaraj
+> Reply time: usually within a day ⚡
+> Best channel: LinkedIn or email
+```
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aspatil0&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
-</p>
-
----
-
-## `$ publications`
-
-### Author | Fiction · Psychology · Philosophy · Self-Growth
-
-Writing is another way I explore ideas, human behaviour, emotions, and the questions that shape our lives.
-
-| Book | Genre / Focus |
-|---|---|
-| **Last Six Days** | Psychological thriller and countdown suspense |
-| **The Love I Can't Hold** | Emotional fiction and relationships |
-| **I Killed Myself** | Dark psychological fiction |
-| **The Tunnel Paradox** | Mystery, suspense, and philosophy |
-| **Solve Better** | Problem-solving and personal development |
-| **The Gentleman's Code** | Discipline, mindset, respect, and self-growth |
-
-I also work on new fiction and non-fiction concepts, exploring psychological suspense, philosophy, and human behaviour.
-
-**Explore my books:**
-
-- [Last Six Days — Amazon](https://www.amazon.com/Last-Six-Days-Countdown-Death-ebook/dp/B0FLLSVZVK)
-- [The Love I Can't Hold — Amazon](https://www.amazon.com/gp/product/B0FLG6S9JW)
-
----
-
-## `$ currently-exploring`
-
-- Scalable backend architecture and microservices.
-- Secure API design and production debugging.
-- Better database modelling and performance.
-- SaaS product architecture and multi-tenant systems.
-- AI-assisted applications and automation.
-- Turning independent product ideas into usable software.
-
----
-
-## `$ let's-connect`
-
-I'm interested in collaborating on meaningful software products, backend engineering, full-stack applications, IoT projects, and practical technology solutions.
-
-<p align="center">
-  <a href="https://github.com/aspatil0">GitHub</a> ·
-  <a href="https://linkedin.com/in/adityarajpatil">LinkedIn</a> ·
-  <a href="mailto:ASPATIL2904@GMAIL.COM">Email</a>
-</p>
-
-<p align="center">
-  <sub>Building systems. Exploring ideas. Writing stories. Improving continuously.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer&text=Building%20systems.%20Writing%20stories.%20Shipping%20games.&fontSize=16&fontColor=E2E8F0&fontAlignY=70" alt="footer"/>
 </p>
